@@ -30,12 +30,3 @@ Amo a resolução de problemas desde que me conheço por gente, e isso foi o que
 **🔜 Em Breve**
   - [Bot RPG — Backend](#)
   - [Life Up — FullStack](#)
-
-#
-
-## Contatos
-
-<div>
-  <a href="https://www.linkedin.com/in/gabrieli-mt"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width=30px></a>
-  <a href="https://www.instagram.com/gabrieli_mt"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width=30px></a>
-</div>
