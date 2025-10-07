@@ -1,16 +1,41 @@
-## Hi there 👋
+# Oi, eu sou a Gabi! ✨
+*Dev Front-end e UX/UI designer*
 
-<!--
-**gabrielimt/gabrielimt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Amo a resolução de problemas desde que me conheço por gente, e isso foi o que me fez escolher o caminho da tecnologia. Eu almejo um dia criar algo com a tencnologia que impacte de uma forma que ajude no dia a dia de todos. Hoje em dia estudo para me aprimorar no **Frontend** e no **Design**, mas pretendo expandir para o **FullStack**, para alcançar meus objetivos de forma eficaz.
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="30">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" width="30">
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30">
+  
+  *Além da minha stack principal, tenho experiência com Python na criação de bots para Discord.*
+</div>
+
+#
+
+## Projetos
+
+**✅ Concluídos**
+  - [Academia — Frontend](https://github.com/gabrielimt/academia)
+
+**🔄 Em Andamento**
+  - [E-Commerce — FullStack](#)
+
+**🔜 Em Breve**
+  - [Bot RPG — Backend](#)
+  - [Life Up — FullStack](#)
+
+#
+
+## Contatos
+
+<div>
+  <a href="https://www.linkedin.com/in/gabrieli-mt"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width=30px></a>
+  <a href="https://www.instagram.com/gabrieli_mt"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width=30px></a>
+</div>
