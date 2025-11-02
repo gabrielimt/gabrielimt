@@ -25,7 +25,7 @@ Amo a resolução de problemas desde que me conheço por gente, e isso foi o que
   - [Academia — Frontend](https://github.com/gabrielimt/academia)
 
 **🔄 Em Andamento**
-  - [E-Commerce — FullStack](#)
+  - [E-Commerce de livros — FullStack](https://github.com/gabrielimt/estante_meia_noite-e_commerce)
 
 **🔜 Em Breve**
   - [Bot RPG — Backend](#)
