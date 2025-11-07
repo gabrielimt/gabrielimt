@@ -23,6 +23,7 @@ Amo a resolução de problemas desde que me conheço por gente, e isso foi o que
 
 **✅ Concluídos**
   - [Academia — Frontend](https://github.com/gabrielimt/academia)
+  - [Imobi — Frontend](https://github.com/gabrielimt/imobi)
 
 **🔄 Em Andamento**
   - [E-Commerce de livros — FullStack](https://github.com/gabrielimt/estante_meia_noite-e_commerce)
