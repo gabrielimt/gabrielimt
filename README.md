@@ -16,18 +16,3 @@ Amo a resolução de problemas desde que me conheço por gente, e isso foi o que
   
   *Além da minha stack principal, tenho experiência com Python na criação de bots para Discord.*
 </div>
-
-#
-
-## Projetos
-
-**✅ Concluídos**
-  - [Academia — Frontend](https://github.com/gabrielimt/academia)
-  - [Imobi — Frontend](https://github.com/gabrielimt/imobi)
-
-**🔄 Em Andamento**
-  - [E-Commerce de livros — FullStack](https://github.com/gabrielimt/estante_meia_noite-e_commerce)
-
-**🔜 Em Breve**
-  - [Bot RPG — Backend](#)
-  - [Life Up — FullStack](#)
