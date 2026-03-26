@@ -7,6 +7,7 @@ Amo a resolução de problemas desde que me conheço por gente, e isso foi o que
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="30">
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30">
