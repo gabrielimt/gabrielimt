@@ -1,9 +1,9 @@
 # Hi, I'm Gabi! ✨
-**Front-end developer and UX/UI designer**
+**React Frontend Developer • UI/UX Design**
 
 I have loved problem-solving for as long as I can remember, and that is what led me to pursue a career in technology. I aspire to one day create something through technology that has a meaningful impact and helps improve people's daily lives.
 
-Currently, I am focused on developing my skills in **Frontend** and **Design**, but I plan to expand into Full Stack in order to achieve my goals more effectively.
+Currently, I am focused on developing my skills in **Frontend development with React** and **UI/UX Design**, but I plan to expand into Full Stack in order to achieve my goals more effectively.
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30">
