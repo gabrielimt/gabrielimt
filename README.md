@@ -1,7 +1,9 @@
-# Oi, eu sou a Gabi! ✨
-*Dev Front-end e UX/UI designer*
+# Hi, I'm Gabi! ✨
+**Front-end developer and UX/UI designer**
 
-Amo a resolução de problemas desde que me conheço por gente, e isso foi o que me fez escolher o caminho da tecnologia. Eu almejo um dia criar algo com a tencnologia que impacte de uma forma que ajude no dia a dia de todos. Hoje em dia estudo para me aprimorar no **Frontend** e no **Design**, mas pretendo expandir para o **FullStack**, para alcançar meus objetivos de forma eficaz.
+I have loved problem-solving for as long as I can remember, and that is what led me to pursue a career in technology. I aspire to one day create something through technology that has a meaningful impact and helps improve people's daily lives.
+
+Currently, I am focused on developing my skills in **Frontend** and **Design**, but I plan to expand into Full Stack in order to achieve my goals more effectively.
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30">
@@ -15,5 +17,18 @@ Amo a resolução de problemas desde que me conheço por gente, e isso foi o que
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30">
   
-  *Além da minha stack principal, tenho experiência com Python na criação de bots para Discord.*
+  *In addition to my main stack, I have experience with Python developing Discord bots.*
 </div>
+
+#
+
+### My Main Repositories
+
+**Actives:**
+
+- [Leviathan](https://github.com/gabrielimt/leviathan) - Movie and TV series platform with a local database
+- [Random Practices](https://github.com/gabrielimt/random_practices) - Where I practice programming concepts
+
+**Completed:**
+
+- [Academia](https://github.com/gabrielimt/academia) - A landing page for a gym
