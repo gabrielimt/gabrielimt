@@ -10,12 +10,14 @@ Currently, I am focused on developing my skills in **Frontend development with R
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="30">
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" width="30">
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30">
   
   *In addition to my main stack, I have experience with Python developing Discord bots.*
 </div>
