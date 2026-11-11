@@ -25,7 +25,7 @@ Após explorar o desenvolvimento web e uma perspectiva Full Stack, estou direcio
 **Ativos:**
 
 - [Bah Quadras (Front)](https://github.com/cristiano-lauffer/bah_quadras_web) - Sistema de agendamento de quadras. Desenvolvendo com colegas da faculdade UniSenac.
-- [Análise de Campanha de Marketing]() - Em breve.
+- [Análise de Campanha de Marketing (Dados)]() - Em breve.
 
 **Completados:**
 
