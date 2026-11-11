@@ -1,36 +1,34 @@
-# Hi, I'm Gabi! ✨
-**React Frontend Developer • UI/UX Design**
+# Olá, sou a Gabi! ✨
+**Analista de Dados**
 
-I have loved problem-solving for as long as I can remember, and that is what led me to pursue a career in technology. I aspire to one day create something through technology that has a meaningful impact and helps improve people's daily lives.
+Sempre gostei de resolver problemas, explorar possibilidades e entender como as coisas funcionam. Foi essa curiosidade que me levou à tecnologia, onde venho construindo minha trajetória desde 2025, desenvolvendo conhecimentos em lógica de programação e Python desde o primeiro semestre da faculdade.
 
-Currently, I am focused on developing my skills in **Frontend development with React** and **UI/UX Design**, but I plan to expand into Full Stack in order to achieve my goals more effectively.
+Após explorar o desenvolvimento web e uma perspectiva Full Stack, estou direcionando minha carreira para **Análise de Dados**. Atualmente, busco aprofundar meus conhecimentos em análise exploratória, manipulação e interpretação de dados, unindo minha base em programação ao pensamento crítico, à curiosidade e à vontade de transformar informações em descobertas relevantes.
 
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="30">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" width="30">
+  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="30">
-
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" width="30">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="30">
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30">
-  
-  *In addition to my main stack, I have experience with Python developing Discord bots.*
 </div>
 
 #
 
-### My Main Repositories
+### Meus Projetos
 
-**Actives:**
+**Ativos:**
 
-- [Leviathan](https://github.com/gabrielimt/leviathan) - Movie and TV series platform with a local database
-- [Random Practices](https://github.com/gabrielimt/random_practices) - Where I practice programming concepts
+- [Bah Quadras (Front)](https://github.com/cristiano-lauffer/bah_quadras_web) - Sistema de agendamento de quadras. Desenvolvendo com colegas da faculdade UniSenac.
+- [Análise de Campanha de Marketing]() - Em breve.
 
-**Completed:**
+**Completados:**
 
-- [Academia](https://github.com/gabrielimt/academia) - A landing page for a gym
+- [Academia (Front)](https://github.com/gabrielimt/academia) - Uma landing page para uma academia.
+- [EDA Investigação de Churn (Dados)](https://colab.research.google.com/drive/1Gqk-P0f4Gp3vA4BuQP7egQY7y5Uobtzb?usp=sharing) - Investigação de cancelamentos de provedora de internet. Feito com colegas do Geração Caldeira.
+- [Motor Fruki (Dados)](https://github.com/vitoria-moraes/Projeto-final-Fruki) - Um motor de recomendação baseado em dados. Desenvolvido com colegas do Geração Caldeira.
